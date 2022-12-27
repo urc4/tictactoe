@@ -12,6 +12,7 @@ def start_game():
       board[position] = ''
 
    return board
+   
 
 
 def display_game(board):
